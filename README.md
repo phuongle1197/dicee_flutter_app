@@ -8,7 +8,7 @@
 Make apps with functionality using setState() inside Stateful Flutter widgets.
 
 
-<img src="images/dice-flutter-demo.gif" width="400" height="700">
+<img src="images/dice-flutter-demo.gif" width="400" height="800">
 
 ## What I have learnt from this module
 
