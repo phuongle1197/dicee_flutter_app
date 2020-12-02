@@ -7,7 +7,7 @@
 
 Make apps with functionality using setState() inside Stateful Flutter widgets.
 
-![Finished App](images/dice-flutter-demo.gif)
+![Finished App](images/dice-flutter-demo.gif){:height="50%" width="50%"}
 
 ## What I have learnt from this module
 
